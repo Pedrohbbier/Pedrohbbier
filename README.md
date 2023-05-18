@@ -2,7 +2,8 @@
 
 ##
 
-[![Pedrohbbier](https://github-readme-stats.vercel.app/api?username=Pedrohbbier&show_icons=true&theme=default)](https://github.com/Pedrohbbier)
+![Pedrohbbier GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohbbier&show_icons=true&theme=transparent)
+
 
 ##
 
