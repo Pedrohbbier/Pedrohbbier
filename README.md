@@ -4,6 +4,8 @@
 
 ![Pedrohbbier GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrohbbier&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohbbier&layout=compact)](https://github.com/Pedrohbbier/github-readme-stats)
+
 
 ##
 
